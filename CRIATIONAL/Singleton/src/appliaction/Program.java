@@ -4,6 +4,7 @@ public class Program {
         Singleton instance = Singleton.getInstance("Hello World!");
         Singleton instance2 = Singleton.getInstance("Olá Mundo!");
         
+        
         System.out.println(instance.getValue());
         System.out.println(instance2.getValue());
     }
