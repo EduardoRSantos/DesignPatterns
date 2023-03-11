@@ -9,7 +9,9 @@ public class Program {
         DataParserTxt dpt = new DataParserTxt();
         List<String> list = dpt.templateMethod();
         for (String string : list) {
+            
             System.out.println(string);
+            
         }
     }
 }
