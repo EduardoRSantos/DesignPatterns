@@ -5,6 +5,7 @@ public class MemoriaRam {
         System.out.println("Armazenando algo!");
     }
     
+    
     public void release(){
         System.out.println("Liberar registro");
     }

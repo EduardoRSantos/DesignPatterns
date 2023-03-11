@@ -9,6 +9,7 @@ public class FacadeComputer {
     private MemoriaRam memoriaRam;
     private PlacaDeVideo placaDeVideo;
 
+    
     public FacadeComputer() {
         this.cpu = new Cpu();
         this.memoriaRam = new MemoriaRam();

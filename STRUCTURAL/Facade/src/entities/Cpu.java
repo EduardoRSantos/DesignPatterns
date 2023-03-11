@@ -4,6 +4,7 @@ public class Cpu {
        System.out.println("Iniciando Sistem");
    }
    
+   
    public void execute(){
        System.out.println("executando algo!");
    }

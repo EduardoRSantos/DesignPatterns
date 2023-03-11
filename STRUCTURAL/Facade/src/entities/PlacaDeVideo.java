@@ -5,6 +5,7 @@ public class PlacaDeVideo {
         System.out.println("Rendereizar");
     }
     
+    
     public void ativaRyTracing(){
         System.out.println("Ray Tracing ativado!");
     }
